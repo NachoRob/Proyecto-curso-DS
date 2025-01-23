@@ -1,0 +1,30 @@
+# Ignorar archivos del sistema
+.DS_Store
+.CFUserTextEncoding
+
+# Ignorar configuraciones personales y del sistema
+.bash_profile
+.gitconfig
+.config/
+.continuum/
+.ipython/
+.jupyter/
+.lesshst
+.matplotlib/
+.pgadmin/
+.ssh/
+.tcshrc
+.viminfo
+
+# Ignorar entornos de desarrollo
+.anaconda/
+.conda/
+.ipynb_checkpoints/
+
+# Ignorar caché de Python
+__pycache__/
+
+# Ignorar entornos virtuales
+venv/
+env/
+.venv/
