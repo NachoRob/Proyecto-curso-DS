@@ -1,0 +1,1 @@
+Repositorio del bootcamp de Data Science con modelos KNN, Random Forest y regresión logística. Aplicación de PCA, detección de outliers con Isolation Forest y ajuste de hiperparámetros con GridSearch. Exploración y mejora de predicciones en el dataset del Titanic. 🚀
