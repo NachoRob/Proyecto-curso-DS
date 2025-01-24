@@ -37,3 +37,25 @@ A lo largo del proyecto, hemos probado diferentes modelos y técnicas para mejor
 ---
 
 ## 📂 Estructura del Proyecto  
+
+---
+
+## 🚀 Cómo Usar este Proyecto  
+Si deseas replicar los análisis y modelos, sigue estos pasos:  
+
+1️⃣ **Clonar el repositorio:**  
+```bash
+git clone https://github.com/NachoRob/Titanic-Project.git
+cd Titanic-Project
+
+pip install -r requirements.txt
+
+jupyter notebook
+
+📬 Contacto
+
+📧 Email: ignaciorob86@gmail.com
+📸 Instagram: i_ro_86
+🐦 Twitter (X): @Ignacio83743803
+
+Si tienes sugerencias o mejoras, ¡serán bienvenidas! 🚀
