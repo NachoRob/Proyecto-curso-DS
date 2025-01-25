@@ -1,7 +1,7 @@
 # 🚢 Titanic - Data Science Bootcamp Project  
 
 ## 📌 Descripción  
-Este proyecto forma parte del bootcamp de Data Science y tiene como **objetivo principal aplicar todas las técnicas aprendidas** en el curso. Se basa en el análisis del famoso dataset del **Titanic**, utilizando herramientas de **exploración de datos, preprocesamiento, modelado y ajuste de hiperparámetros** para predecir la **supervivencia de los pasajeros**.  
+Este proyecto forma parte de un bootcamp de Data Science y tiene como **objetivo principal aplicar todas las técnicas aprendidas** en el curso. Se basa en el análisis del famoso dataset del **Titanic**, utilizando herramientas de **exploración de datos, preprocesamiento, modelado y ajuste de hiperparámetros** para predecir la **supervivencia de los pasajeros**.  
 
 📊 **Metodología utilizada:** Se sigue la metodología **CRISP-DM**, que guía el flujo de trabajo de ciencia de datos en seis etapas:  
 
