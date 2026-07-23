@@ -128,7 +128,6 @@ jupyter notebook
 ---
 ## Agradecimientos
 
-Quiero expresar mi sincero agradecimiento a mi profesor **Zurishadday Velazques** por su invaluable guía y enseñanza a lo largo de este proceso. Su conocimiento, paciencia y dedicación han sido fundamentales para mi aprendizaje en Data Science.  
+Quiero expresar mi sincero agradecimiento a **Zurishadday Velazques** por su invaluable guía y enseñanza a lo largo de este proceso. Su conocimiento, paciencia y dedicación han sido fundamentales para mi aprendizaje en Data Science.  
 
-Gracias por compartir su experiencia y por inspirarme a seguir mejorando en este apasionante campo del análisis de datos.  
 ---
